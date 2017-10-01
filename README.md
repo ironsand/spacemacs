@@ -281,7 +281,7 @@ git clone https://github.com/syl20bnr/spacemacs.git ~/spacemacs/.emacs.d
 HOME=~/spacemacs emacs
 ```
 
-Note: If you're on Fish shell, you will need to modify the last command to: `env
+Note: If you're on Zsh or Fish shell, you will need to modify the last command to: `env
 HOME=$HOME/spacemacs emacs`
 
 ### Modify spacemacs-start-directory variable
